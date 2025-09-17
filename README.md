@@ -1,16 +1,35 @@
-# clubify
+# 📚 Clubify – Campus Clubs, Simplified
 
-A new Flutter project.
+One-stop platform for all campus clubs — discover, join, and stay updated without the chaos of multiple WhatsApp groups.
 
-## Getting Started
+## 🎯 What is Clubify?
 
-This project is a starting point for a Flutter application.
+Clubify centralises all your college clubs in one app. Students can find clubs, view events, RSVP, and get smart reminders — clubs can post announcements and manage members easily.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 MVP Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Verified Club Directory – searchable list of all clubs with profiles
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Event Pages + RSVP – one-tap RSVP & automatic reminders
+
+Announcements & Digests – no more chat spam, just relevant updates
+
+## 🛠 Tech Stack
+
+Frontend: Flutter
+
+Backend: Firebase (Auth, Firestore, Cloud Messaging)
+
+## ⚡ Quick Start
+git clone https://github.com/yourusername/clubify.git
+cd clubify
+flutter pub get
+flutter run
+
+## 🤝 Contributing
+
+Fork & branch (feature/feature-name)
+
+Commit with clear messages
+
+Open a pull request for review
