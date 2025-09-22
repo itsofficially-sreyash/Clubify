@@ -1,6 +1,5 @@
 import 'package:clubify/common/constants/colors.dart';
 import 'package:clubify/common/widgets/scaffolds.dart';
-import 'package:clubify/features/announcements/screens/announcementScreen.dart';
 import 'package:clubify/features/home/Screens/homeScreen.dart';
 import 'package:clubify/features/login_page/widgets/customTextField.dart';
 import 'package:clubify/services/authService.dart';
