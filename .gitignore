@@ -43,3 +43,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+.env
+.env.*
+
+765792a434427199c33ecd3acf5fab87.jpg
+profile_screen.jpg
+
+lib/common/models/navItemModel.dart
+lib/common/models/rive_model.dart
